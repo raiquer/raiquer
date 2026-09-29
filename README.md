@@ -1,6 +1,7 @@
 # Hi, I'm Raiquer Arveláez 👋
 
 **Delivery & Operations Manager | Incident Command | Process Design | Technical Team Leadership**
+
 📍 Santiago, Chile · Open to fully remote
 
 Electronic Engineer and MBA with 15+ years leading technical teams, service delivery and incident response at L'Oréal, Sodimac and Oracle across LATAM, NAMER and EMEA.
